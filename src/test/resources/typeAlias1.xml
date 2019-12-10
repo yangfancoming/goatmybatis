@@ -11,8 +11,8 @@
      -->
 
   <typeAliases>
-     <typeAlias type="org.apache.goat.common.Foo" alias="Foo"/>
-     <typeAlias type="org.apache.goat.common.Bar" alias="Bar"/>
+     <typeAlias type="cn.goat.mybatis.model.Foo" alias="Foo"/>
+<!--     <typeAlias type="cn.goat.mybatis.model.Bar" alias="Bar"/>-->
   </typeAliases>
 
 </configuration>
